@@ -11,8 +11,8 @@ I don't have much commentary since I barely remember making this, but I most lik
 
 ### Controls
 
-Arrows - Move; double-tap to dash
-Z/C - Attack (can be held)
-Enter - Open pause menu
+Arrows - Move; double-tap to dash  
+Z/C - Attack (can be held)  
+Enter - Open pause menu  
 
 - Attacking right after a dash performs a lunge, dealing 2 damage with increased knockback.
